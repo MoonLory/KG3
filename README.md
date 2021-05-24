@@ -1,18 +1,24 @@
-# KG1
-lab1, Hryshkin
+# KG3
+lab3, Hryshkin
 
 ## Task
 
-Create a (web) app allowing the user to choose and interactively change the color and showing its components in three 
-color models (RGB, XYZ, LAB) in real time.
+Write an application / web application that implements the image processing methods specified in the variant. 
 
-## Result
-
-![Screenshot of the program](example.png)
-
-## Requirements
-
-* .NET Framework 4.7 or later
+## Initial
+![Screenshot of the program](1.jpg)
+![Screenshot of the program](2.jpg)
+![Screenshot of the program](3.jpg)
+## Processing
+![Screenshot of the program](1_1.jpg)
+![Screenshot of the program](2_1.jpg)
+![Screenshot of the program](3_1.jpgg)
+## Histogram
+![Screenshot of the program](1_2.jpg)
+![Screenshot of the program](2_2.jpg)
+![Screenshot of the program](3_2.jpg)
+## the requirements 
+* win10 latest versionr
 
 ## Installation and usage
 
