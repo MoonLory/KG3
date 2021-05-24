@@ -6,17 +6,25 @@ lab3, Hryshkin
 Write an application / web application that implements the image processing methods specified in the variant. 
 
 ## Initial
-![Screenshot of the program](1.jpg)
-![Screenshot of the program](2.jpg)
-![Screenshot of the program](3.jpg)
+![1](1.jpg)
+
+![2](2.jpg)
+
+![3](3.jpg)
 ## Processing
-![Screenshot of the program](1_1.jpg)
-![Screenshot of the program](2_1.jpg)
-![Screenshot of the program](3_1.jpgg)
+![1](1_1.jpg)
+
+![2](2_1.jpg)
+
+![3](3_1.jpg)
+
 ## Histogram
-![Screenshot of the program](1_2.jpg)
-![Screenshot of the program](2_2.jpg)
-![Screenshot of the program](3_2.jpg)
+![1](1_2.jpg)
+
+![2](2_2.jpg)
+
+![3](3_2.jpg)
+
 ## the requirements 
 * win10 latest versionr
 
